@@ -1,20 +1,31 @@
-✨ Eshal Fathima
-<p align="center"> <em>Third-Year Student • Big Data Analytics • Curious Learner</em> </p>
-🌿 About Me
+<h1 align="center">✨ Eshal Fathima</h1>
 
-I am a third-year student specializing in Big Data Analytics with a strong interest in data-driven systems and analytical problem solving.
+<p align="center">
+  <b>Third-Year Student</b> • Big Data Analytics • Curious Learner
+</p>
 
-I enjoy exploring how data can be structured, analyzed, and transformed into meaningful insights. Alongside academics, I continuously work on improving my technical and programming skills.
+---
 
-🚧 The road to success is always under construction.
+## 🌿 About Me
 
-🛠️ Technical Skills
+I am a third-year student specializing in **Big Data Analytics** with a strong interest in data-driven systems and analytical problem solving.
 
-Programming Languages
-Python • JavaScript • SQL
+I enjoy understanding how data can be structured, analyzed, and transformed into meaningful insights. Alongside academics, I continuously work on strengthening my programming and technical fundamentals.
 
-Web Technologies
-React • HTML • CSS
+> 🚧 *The road to success is always under construction.*
 
-Database
-MySQL
+---
+
+## 🛠 Technical Skills
+
+### Programming
+`Python` • `JavaScript` • `SQL`
+
+### Web Technologies
+`React` • `HTML` • `CSS`
+
+### Database
+`MySQL`
+
+---
+
