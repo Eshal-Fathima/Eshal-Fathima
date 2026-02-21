@@ -12,8 +12,6 @@ I am a third-year student specializing in **Big Data Analytics** with a strong i
 
 I enjoy understanding how data can be structured, analyzed, and transformed into meaningful insights. Alongside academics, I continuously work on strengthening my programming and technical fundamentals.
 
-> 🚧 *The road to success is always under construction.*
-
 ---
 
 ## 🛠 Technical Skills
