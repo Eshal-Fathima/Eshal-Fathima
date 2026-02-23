@@ -12,9 +12,6 @@ I am a third-year student specializing in **Big Data Analytics** with a strong i
 
 I focus on building a strong foundation in data analysis, database systems, and programming fundamentals, while continuously improving my technical skills.
 
-> *The road to success is always under construction.*
-
----
 
 ## Technical Skills
 
