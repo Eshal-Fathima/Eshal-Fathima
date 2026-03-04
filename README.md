@@ -1,7 +1,7 @@
 <h1 align="center">Eshal Fathima</h1>
 
 <p align="center">
-  <b>Third-Year Student</b> • Big Data Analytics • AI Enthusiast
+  <b>Third-Year Student</b> • Big Data Analytics • <b>AI Enthusiast</b>
   
 </p>
 
