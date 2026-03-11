@@ -34,6 +34,8 @@ I am focused on building a solid foundation in data analysis, database systems, 
 
 - Strengthening data analytics fundamentals  
 - Improving SQL and database design skills  
-- Building structured academic and personal projects  
+- Building structured academic and personal projects
+- Passionate about AI and How it is developing
+- Always Experimenting
 
 ---
