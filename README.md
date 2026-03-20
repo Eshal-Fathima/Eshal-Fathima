@@ -27,7 +27,6 @@ I am focused on building a solid foundation in data analysis, database systems, 
 
 </p>
 
----
 
 ## Current Focus
 
