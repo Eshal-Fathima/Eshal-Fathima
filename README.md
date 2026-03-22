@@ -13,6 +13,8 @@ I am a third-year undergraduate student specializing in **Computer Science wiht 
 
 I am focused on building a solid foundation in data analysis, database systems, and programming fundamentals, while continuously strengthening my technical and problem-solving skills. I am passionate about leveraging data to derive meaningful insights and contribute to impactful projects.
 
+---
+
 
 ## Technical Skills
 
