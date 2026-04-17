@@ -9,9 +9,9 @@
 
 ## About Myself
 
-I am a third-year undergraduate student specializing in **Computer Science wiht Big Data Analytics**, with a strong interest in data-driven systems and analytical problem-solving.
+I am a third-year undergraduate student specializing in **Computer Science with Big Data Analytics**, with a strong interest in data-driven systems and analytical problem-solving.
 
-I am focused on building a solid foundation in data analysis, database systems, and python programming, while continuously strengthening my technical and problem-solving skills. I am passionate about leveraging data to derive meaningful insights and contribute to impactful projects.
+I am focused on building a solid foundation in data analysis, database systems, and Python programming, while continuously strengthening my technical and problem-solving skills. I am passionate about leveraging data to derive meaningful insights and contribute to impactful projects.
 
 ---
 
@@ -37,6 +37,6 @@ I am focused on building a solid foundation in data analysis, database systems, 
 - Improving SQL and database design skills  
 - Building structured academic and personal projects
 - Passionate about AI and How it is developing
-- Know about natural learning process (nlp)
+- Know about Natural Language Processing (nlp)
 ---
 ---
