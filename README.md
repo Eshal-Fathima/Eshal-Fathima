@@ -33,10 +33,9 @@ I am focused on building a solid foundation in data analysis, database systems, 
 
 ## Current Focus
 
-- Strengthening data analytics fundamentals  
-- Improving SQL and database design skills  
-- Building structured academic and personal projects
-- Passionate about AI and How it is developing
-- Know about Natural Language Processing (nlp)
----
+- Strengthening core concepts in Data Analytics
+- Improving SQL and database design skills
+- Building structured academic + personal projects
+- Exploring AI and its real-world applications
+- Developing understanding of Natural Language Processing (NLP)
 ---
