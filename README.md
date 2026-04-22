@@ -15,18 +15,18 @@ I am focused on building a solid foundation in data analysis, database systems, 
 
 ---
 
-
-## Technical Skills
+## 🛠️ Technical Skills  
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,html,css,git&theme=dark" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-%2300C4CC.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23FF6F00.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database%20Design-%234285F4.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 </p>
 
 ---
