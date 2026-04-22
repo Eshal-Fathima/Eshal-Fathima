@@ -29,7 +29,9 @@ I am focused on building a solid foundation in data analysis, database systems, 
 </p>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshal-Fathima&theme=tokyonight" />
+</p>
 
 ## Current Focus
 
