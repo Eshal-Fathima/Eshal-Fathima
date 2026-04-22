@@ -29,7 +29,7 @@ I am focused on building a solid foundation in data analysis, database systems, 
 </p>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Eshal%20Fathima&fontSize=40&color=0:0F2027,50:203A43,100:2C5364"/>
+---
 
 
 ## Current Focus
