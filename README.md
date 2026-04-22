@@ -13,6 +13,8 @@ I am a third-year undergraduate student specializing in **Computer Science with 
 
 I am focused on building a solid foundation in data analysis, database systems, and Python programming, while continuously strengthening my technical and problem-solving skills. I am passionate about leveraging data to derive meaningful insights and contribute to impactful projects.
 
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,js,react,html,css,git&theme=dark" />
 </p>
