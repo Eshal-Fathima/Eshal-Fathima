@@ -5,9 +5,7 @@
   
 </p>
 
-<p align="center">
-  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-</p>
+---
 
 ## About Myself
 
