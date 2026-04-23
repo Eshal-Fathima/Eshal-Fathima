@@ -1,7 +1,7 @@
 <h1 align="center">Eshal Fathima</h1>
 
 <p align="center">
-  <b>Third-Year Student</b> • <b>Big Data Analytics </b>• <b>AI Systems</b>• <b>Machine Learning</b>
+  <b>Third-Year Student</b> • <b>Big Data Analytics</b> • <b>AI Systems</b> • <b>Machine Learning</b>
   
 </p>
 
@@ -50,3 +50,10 @@ My work focuses on combining **data analysis, machine learning, and AI** to crea
 - Exploring AI and its real-world applications
 - Developing understanding of Natural Language Processing (NLP)
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshal-Fathima&theme=tokyonight" />
+</p>
