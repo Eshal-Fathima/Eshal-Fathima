@@ -54,6 +54,5 @@ My work focuses on combining **data analysis, machine learning, and AI** to crea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshal-Fathima&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;AI+Systems+%7C+RAG+%7C+LLMs;Building+Real-World+AI+Projects" />
 </p>
