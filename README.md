@@ -1,7 +1,7 @@
 <h1 align="center">Eshal Fathima</h1>
 
 <p align="center">
-  <b>Third-Year Student</b> • <b>Big Data Analytics </b>• <b>AI Enthusiast</b>
+  <b>Third-Year Student</b> • <b>Big Data Analytics </b>• <b>AI Systems</b>• <b>Machine Learning</b>
   
 </p>
 
@@ -11,7 +11,20 @@
 
 I am a third-year undergraduate student specializing in **Computer Science with Big Data Analytics**, with a strong interest in data-driven systems and analytical problem-solving.
 
-I am focused on building a solid foundation in data analysis, database systems, and Python programming, while continuously strengthening my technical and problem-solving skills. I am passionate about leveraging data to derive meaningful insights and contribute to impactful projects.
+My work focuses on combining **data analysis, machine learning, and AI** to create practical solutions—from analytics platforms to LLM-powered applications. I enjoy transforming raw data into insights and designing scalable systems that solve real-world problems.
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, SQL, JavaScript  
+- **Data Science:** EDA, Data Modeling, Analytics  
+- **Machine Learning:** Model Development, Evaluation, Scikit-learn  
+- **AI:** RAG, LLM Applications, AI Workflows  
+- **Backend:** Flask, REST APIs  
+- **Visualization:** Tableau, Power BI  
+- **Database:** MySQL, MongoDB  
+- **Cloud:** IBM Cloud, AWS (Foundations)  
 
 ---
 
