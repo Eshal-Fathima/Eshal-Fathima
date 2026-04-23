@@ -5,7 +5,9 @@
   
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<p align="center">
+  ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+</p>
 
 ## About Myself
 
