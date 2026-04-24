@@ -41,6 +41,10 @@ My work focuses on combining **data analysis, machine learning, and AI** to crea
 </p>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-Fathima&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</p>
 ---
 
 ## Current Focus
