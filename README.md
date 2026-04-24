@@ -6,10 +6,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Science;Machine+Learning;AI+Systems;RAG+%7C+LLMs"/>
-</p>
----
+
 
 ## About Myself
 
