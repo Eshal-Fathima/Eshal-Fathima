@@ -45,7 +45,6 @@ My work focuses on combining **data analysis, machine learning, and AI** to crea
   <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-Fathima&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </p>
----
 
 ## Current Focus
 
@@ -55,7 +54,3 @@ My work focuses on combining **data analysis, machine learning, and AI** to crea
 - Exploring AI and its real-world applications
 - Developing understanding of Natural Language Processing (NLP)
 ---
-
-## 📊 GitHub Stats
-
-[![Eshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshal-Fathima&theme=tokyo-night)](https://github.com/Eshal-Fathima)
