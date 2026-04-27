@@ -11,6 +11,7 @@
 ## About Myself
 
 I am a third-year undergraduate student specializing in **Computer Science with Big Data Analytics**, with a strong interest in data-driven systems and analytical problem-solving.
+
 ---
 
 ## Tech Stack
