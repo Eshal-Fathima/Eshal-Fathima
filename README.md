@@ -11,9 +11,6 @@
 ## About Myself
 
 I am a third-year undergraduate student specializing in **Computer Science with Big Data Analytics**, with a strong interest in data-driven systems and analytical problem-solving.
-
-My work focuses on combining **data analysis, machine learning, and AI** to create practical solutions—from analytics platforms to LLM-powered applications. I enjoy transforming raw data into insights and designing scalable systems that solve real-world problems.
-
 ---
 
 ## Tech Stack
