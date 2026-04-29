@@ -35,12 +35,3 @@ I am a third-year undergraduate student specializing in Computer Science with Bi
   <img src="https://img.shields.io/badge/NLP-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 </p>
-
-## Current Focus
-
-- Strengthening core concepts in Data Analytics
-- Improving SQL and database design skills
-- Building structured academic + personal projects
-- Exploring AI and its real-world applications
-- Developing understanding of Natural Language Processing (NLP)
----
