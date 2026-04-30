@@ -15,22 +15,14 @@ Third-year CS undergrad specializing in <b>Big Data Analytics</b>, passionate ab
 
 ## Tech Stack
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
 
-**AI & ML** &nbsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%7C%20LLM-7F77DD?style=flat-square&logoColor=white)
+| 🧠 AI & ML | 🗄️ Data | 🖥️ Backend | 📊 Viz |
+|:---:|:---:|:---:|:---:|
+| Python · Scikit-learn | MySQL · MongoDB | Flask · REST APIs | Tableau · Power BI |
+| RAG · LLM Apps | SQL · EDA | JavaScript | IBM Cloud · AWS |
 
-**Data** &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Backend** &nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+</div>
 
 ---
 
