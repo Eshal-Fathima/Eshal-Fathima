@@ -15,36 +15,22 @@ Third-year CS undergrad specializing in <b>Big Data Analytics</b>, passionate ab
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python · SQL · JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td>EDA · Data Modeling · Scikit-learn · Model Evaluation</td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>RAG · LLM Applications · NLP · AI Workflows</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Flask · REST APIs</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>MySQL · MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Visualization</b></td>
-    <td>Tableau · Power BI</td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>IBM Cloud · AWS Foundations</td>
-  </tr>
-</table>
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & ML** &nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%7C%20LLM-7F77DD?style=flat-square&logoColor=white)
+
+**Data** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Backend** &nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
 
