@@ -50,8 +50,8 @@ Third-year CS undergrad specializing in <b>Big Data Analytics</b>, passionate ab
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-%237F77DD.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-%235DCAA5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eshal-fathima/"><img src="https://img.shields.io/badge/LinkedIn-%237F77DD.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:eshalf483@gmail.com"><img src="https://img.shields.io/badge/Email-%235DCAA5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Eshal-Fathima"><img src="https://img.shields.io/badge/GitHub-%23F0997B.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
