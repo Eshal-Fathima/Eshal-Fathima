@@ -1,9 +1,13 @@
 <!-- CAPSULE HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,161b22&height=180&section=header&text=Eshal%20Fathima%20K&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20%7C%20Big%20Data%20Analytics%20%7C%20AI%20Systems&descSize=16&descAlignY=58&descColor=AFA9EC)
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG + CAT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+intelligent+data-driven+systems;LLM+Evaluation+%7C+RAG+Pipelines+%7C+NLP;Turning+raw+data+into+meaningful+insight" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/cat.png" width="100"/>
 </p>
 
 <!-- BIO -->
