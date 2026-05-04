@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="coding cat"/>
 </p>
 
 <p align="center">
@@ -44,6 +44,7 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
   <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=5DCAA5" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-Fathima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD" height="165"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Eshal-Fathima&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD" />
 </p>
@@ -57,4 +58,4 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
 </p>
 
 <!-- CAPSULE FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=AFA9EC,7F77DD&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=26215C,7F77DD&height=100&section=footer)
