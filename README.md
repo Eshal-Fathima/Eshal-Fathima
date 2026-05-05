@@ -60,10 +60,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
