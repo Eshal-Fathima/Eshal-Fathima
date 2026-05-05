@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110" alt="coding cat"/>
-</p>
-
-<p align="center">
 Third-year CS undergrad · Big Data Analytics · SRM University<br>
 Building AI systems that actually work — LLMs, RAG, data pipelines, and everything in between.
 </p>
