@@ -63,3 +63,10 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
     <img src="https://img.shields.io/badge/GitHub-%23F0997B.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution cat" src="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg" />
+</picture>
