@@ -75,3 +75,5 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
     srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution animation" src="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/cat.gif" width="100%"/>
