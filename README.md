@@ -58,4 +58,4 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
 </p>
 
 <!-- CAPSULE FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,AFA9EC&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=AFA9EC,C3BFFF&height=100&section=footer&v=2)
