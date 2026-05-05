@@ -12,6 +12,8 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO13KTkzPwTykp2/giphy.gif" width="120"/>
 </p>
+
+
 ---
 
 ## 🚀 Tech Stack
