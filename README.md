@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Eshal%20Fathima&fontSize=60&fontAlignY=40"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=CS+%7C+Big+Data+Analytics+%7C+AI+Systems;Building+intelligent+data-driven+systems;LLM+Evaluation+%7C+RAG+Pipelines+%7C+NLP" alt="Typing SVG" />
 </p>
