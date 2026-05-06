@@ -12,8 +12,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
 </p>
 
-## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,docker,mongodb,mysql,aws,react,git&theme=dark&perline=8" />
 </p>
@@ -26,18 +24,7 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
   <img src="https://img.shields.io/badge/OpenEnv-C4A484?style=for-the-badge&logoColor=3E2723"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-6F4E37?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/Pandas-A47148?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/SciPy-B08968?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/Seaborn-DDB892?style=for-the-badge&logoColor=3E2723"/>
-  <img src="https://img.shields.io/badge/Tableau-7F5539?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/Power_BI-8B5E3C?style=for-the-badge&logoColor=FFF8F0"/>
-</p>
-
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Eshal-Fathima&hide_border=true&background=0d1117&ring=B08968&fire=DDB892&currStreakLabel=B08968&sideLabels=E6CCB2&dates=8B5E3C&sideNums=DDB892&currStreakNum=FFF8F0" />
