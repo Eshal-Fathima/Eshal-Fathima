@@ -16,14 +16,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
   <img src="https://skillicons.dev/icons?i=python,flask,docker,mongodb,mysql,aws,react,git&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM_Evaluation-7F5539?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/RAG-B08968?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/Pydantic-DDB892?style=for-the-badge&logoColor=3E2723"/>
-  <img src="https://img.shields.io/badge/Groq_API-8B5E3C?style=for-the-badge&logoColor=FFF8F0"/>
-  <img src="https://img.shields.io/badge/OpenEnv-C4A484?style=for-the-badge&logoColor=3E2723"/>
-</p>
-
 ---
 
 <p align="center">
