@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Eshal%20Fathima&fontSize=60&font=FiraCode&fontColor=ffffff&animation=twinkling&color=0:3B0764,50:7E22CE,100:C084FC"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=100&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=1600&height=220&lines=ESHAL+FATHIMA+K"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=CS+%7C+Big+Data+Analytics+%7C+AI+Systems;Building+intelligent+data-driven+systems;LLM+Evaluation+%7C+RAG+Pipelines+%7C+NLP" alt="Typing SVG" />
