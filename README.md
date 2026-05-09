@@ -24,15 +24,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines, and everyt
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/eshal-fathima/">linkedin</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:eshalf483@gmail.com">email</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Eshal-Fathima">github</a>
-  <br><br>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
