@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Third-year CS undergrad · Big Data Analytics · SRM University<br>
+CS undergrad · Big Data Analytics · SRM University<br>
 Building AI systems that actually work — LLMs, RAG, data pipelines, and everything in between.
 </p>
 
