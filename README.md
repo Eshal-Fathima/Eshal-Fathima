@@ -5,7 +5,7 @@
 
 <p align="center">
 CS undergrad · Big Data Analytics · SRM University<br>
-Building AI systems that actually work — LLMs, RAG, data pipelines, and everything in between.
+Building AI systems that actually work — LLMs, RAG, data pipelines.
 </p>
 
 <p align="center">
