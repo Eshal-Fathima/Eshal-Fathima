@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-CS undergrad · Big Data Analytics <br>
+CSE undergrad · Big Data Analytics <br>
 Building AI systems that actually work — LLMs, RAG, data pipelines.
 </p>
 
