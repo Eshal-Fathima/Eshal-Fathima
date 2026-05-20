@@ -18,12 +18,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eshal-Fathima&hide_border=true&background=0d1117&ring=B08968&fire=DDB892&currStreakLabel=B08968&sideLabels=E6CCB2&dates=8B5E3C&sideNums=DDB892&currStreakNum=FFF8F0" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
