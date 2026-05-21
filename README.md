@@ -23,10 +23,14 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 </p>
 
 <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=42&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=700&height=80&lines=CORE+SKILLS"/>
+</p>
 
-## Core Skills
 
 <div align="center">
 
@@ -69,7 +73,9 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
 </p>
 
-## Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=42&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=900&height=80&lines=FEATURED+PROJECTS"/>
+</p>
 
 <div align="center">
 
@@ -136,18 +142,4 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution animation" src="https://raw.githubusercontent.com/Eshal-Fathima/Eshal-Fathima/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&duration=1&pause=999999&color=7F5539&center=true&vCenter=true&repeat=false&width=900&height=30&lines=%E2%9C%A6+if+the+data+doesn%27t+make+sense%2C+clean+it+harder+%E2%9C%A6"/>
 </p>
