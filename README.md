@@ -8,10 +8,6 @@ CSE UNDERGRAD · AI & MACHINE LEARNING ENTHUSIAST · BIG DATA ANALYTICS <br>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eshal-Fathima&style=flat-square&color=B08968&label=profile+views"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
 </p>
 
