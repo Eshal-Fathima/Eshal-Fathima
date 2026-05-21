@@ -24,10 +24,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,docker,mongodb,mysql,aws,react,git&theme=dark&perline=8" />
-</p>
-
 ---
 
 ## Core Skills
