@@ -69,36 +69,15 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 ---
 
-## Certifications
-
-<p align="center">
-
-| Year | Certification |
-|:---:|:---|
-| 2026 | AWS Cloud Foundations Training Badge |
-| 2025 | RAG Certificate |
-| 2025 | Fundamentals of AI and ML |
-| 2025 | AWS Data Engineering |
-| 2025 | Deloitte Data Analytics Forage |
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a08&title_color=B08968&icon_color=DDB892&text_color=e8d5b7" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-Fathima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0a08&title_color=B08968&text_color=e8d5b7" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshal-Fathima&show_icons=true&hide_border=true&bg_color=0d0a08&title_color=B08968&icon_color=DDB892&text_color=e8d5b7&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-Fathima&layout=compact&hide_border=true&bg_color=0d0a08&title_color=B08968&text_color=e8d5b7&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eshal-Fathima&theme=tokyonight&hide_border=true&background=0d0a08&ring=B08968&fire=DDB892&currStreakLabel=B08968&sideLabels=e8d5b7&dates=7F5539"/>
+  <img src="https://streak-stats.demolab.com?user=Eshal-Fathima&hide_border=true&background=0d0a08&ring=B08968&fire=DDB892&currStreakLabel=B08968&sideLabels=e8d5b7&dates=7F5539&stroke=3E2723"/>
 </p>
 
 <p align="center">
