@@ -44,8 +44,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
 </p>
 
----
-
 ## Featured Projects
 
 <p align="center">
@@ -62,8 +60,6 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
 </p>
-
----
 
 ## GitHub Stats
 
