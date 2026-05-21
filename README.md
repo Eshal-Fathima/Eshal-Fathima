@@ -28,17 +28,42 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 ## Core Skills
 
-<p align="center">
+<div align="center">
 
-| Skill | What I've done with it |
-|:---|:---|
-| **Python** | Primary language across all projects — pipelines, APIs, ML, LLM eval |
-| **LLM APIs & Evaluation** | Built a benchmark framework achieving 94% accuracy across 15 tasks |
-| **RAG Pipelines** | Designed and deployed retrieval-augmented generation systems end-to-end |
-| **Machine Learning** | Trained & optimised classifiers; improved F1 score by 15% via feature engineering |
-| **Data Visualization** | Matplotlib, Seaborn, Tableau — surfacing patterns in real trading datasets |
+<table>
+<tr>
+<th align="center">Skill</th>
+<th align="center">What I've done with it</th>
+</tr>
 
-</p>
+<tr>
+<td align="center"><b>Python</b></td>
+<td>Primary language across all projects — pipelines, APIs, ML, LLM eval</td>
+</tr>
+
+<tr>
+<td align="center"><b>LLM APIs & Evaluation</b></td>
+<td>Built a benchmark framework achieving 94% accuracy across 15 tasks</td>
+</tr>
+
+<tr>
+<td align="center"><b>RAG Pipelines</b></td>
+<td>Designed and deployed retrieval-augmented generation systems end-to-end</td>
+</tr>
+
+<tr>
+<td align="center"><b>Machine Learning</b></td>
+<td>Trained & optimised classifiers; improved F1 score by 15% via feature engineering</td>
+</tr>
+
+<tr>
+<td align="center"><b>Data Visualization</b></td>
+<td>Matplotlib, Seaborn, Tableau — surfacing patterns in real trading datasets</td>
+</tr>
+
+</table>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
@@ -46,16 +71,53 @@ Building AI systems that actually work — LLMs, RAG, data pipelines.
 
 ## Featured Projects
 
-<p align="center">
+<div align="center">
 
-| Project | What it does |
-|:---|:---|
-| **[AI Bug Triage Environment](https://github.com/Eshal-Fathima/Bug_Triage_Environment)** | Benchmark env for triaging GitHub-style bug reports across 15 tasks — 0.94 score with llama-3.1-8b |
-| **[Bitcoin Sentiment Trader Analysis](https://github.com/Eshal-Fathima/Bitcoin-Sentiment-Trader-Analysis)** | How Fear & Greed Index impacts trader profitability — end-to-end feature engineering + statistical testing |
-| **[Mapsly](https://github.com/Eshal-Fathima/Mapsly)** | Map your AI journey — finds the best tools for every step of your build |
-| **[TravelLens](https://github.com/Eshal-Fathima/TravelLens)** | AI-powered travel logging and analytics platform |
+<table>
+<tr>
+<th align="center">Project</th>
+<th align="center">What it does</th>
+</tr>
 
-</p>
+<tr>
+<td align="center">
+
+<b><a href="https://github.com/Eshal-Fathima/Bug_Triage_Environment">AI Bug Triage Environment</a></b>
+
+</td>
+<td>Benchmark env for triaging GitHub-style bug reports across 15 tasks — 0.94 score with llama-3.1-8b</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b><a href="https://github.com/Eshal-Fathima/Bitcoin-Sentiment-Trader-Analysis">Bitcoin Sentiment Trader Analysis</a></b>
+
+</td>
+<td>How Fear & Greed Index impacts trader profitability — feature engineering + statistical testing</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b><a href="https://github.com/Eshal-Fathima/Mapsly">Mapsly</a></b>
+
+</td>
+<td>Map your AI journey — finds the best tools for every step of your build</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b><a href="https://github.com/Eshal-Fathima/TravelLens">TravelLens</a></b>
+
+</td>
+<td>AI-powered travel logging and analytics platform</td>
+</tr>
+
+</table>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,25:7F5539,50:DDB892,75:7F5539,100:3E2723&height=6"/>
