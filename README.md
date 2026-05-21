@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-CSE undergrad · Big Data Analytics <br>
-Building AI systems that actually work — LLMs, RAG, data pipelines.
+CSE UNDERGRAD · AI & MACHINE LEARNING ENTHUSIAST · BIG DATA ANALYTICS <br>
 </p>
 
 <p align="center">
