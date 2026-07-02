@@ -46,11 +46,6 @@ CSE Undergrad 4th year · AI & Machine Learning Enthusiast · Big Data Analytics
 </tr>
 
 <tr>
-<td align="center"><b>RAG Pipelines</b></td>
-<td>Designed and deployed retrieval-augmented generation systems end-to-end</td>
-</tr>
-
-<tr>
 <td align="center"><b>Machine Learning</b></td>
 <td>Trained & optimised classifiers; improved F1 score by 15% via feature engineering</td>
 </tr>
