@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-CSE Undergrad 4th year · AI & Machine Learning Enthusiast · Big Data Analytics <br>
+CSE Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 </p>
 
 <p align="center">
@@ -93,14 +93,6 @@ CSE Undergrad 4th year · AI & Machine Learning Enthusiast · Big Data Analytics
 <td>How Fear & Greed Index impacts trader profitability — feature engineering + statistical testing</td>
 </tr>
 
-<tr>
-<td align="center">
-
-<b><a href="https://github.com/Eshal-Fathima/Mapsly">Mapsly</a></b>
-
-</td>
-<td>Map your AI journey — finds the best tools for every step of your build</td>
-</tr>
 
 <tr>
 <td align="center">
