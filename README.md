@@ -50,10 +50,6 @@ CSE Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 <td>Trained & optimised classifiers; improved F1 score by 15% via feature engineering</td>
 </tr>
 
-<tr>
-<td align="center"><b>Data Visualization</b></td>
-<td>Matplotlib, Seaborn, Tableau — surfacing patterns in real trading datasets</td>
-</tr>
 
 </table>
 
