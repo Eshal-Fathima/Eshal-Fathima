@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=100&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=1600&height=220&lines=ESHAL+FATHIMA+K"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=900&height=60&lines=%E2%9C%A6+code+%E2%80%A2+data+%E2%80%A2+creativity+%E2%80%A2+chaos+%E2%9C%A6"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=1&pause=999999&color=B08968&center=true&vCenter=true&repeat=false&width=900&height=60&lines=%E2%9C%A6+code+%E2%80%A2+creativity+%E2%80%A2+chaos+%E2%9C%A6"/>
 </p>
 
 <p align="center">
