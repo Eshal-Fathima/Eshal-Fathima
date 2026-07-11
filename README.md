@@ -37,7 +37,7 @@ CSE Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 
 <tr>
 <td align="center"><b>Python</b></td>
-<td>Primary language across all projects — pipelines, APIs, ML, LLM eval</td>
+<td>Primary language across all projects — APIs, ML, LLM eval</td>
 </tr>
 
 <tr>
