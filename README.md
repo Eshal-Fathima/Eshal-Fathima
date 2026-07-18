@@ -67,7 +67,7 @@ CSE Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 
 <table>
 <tr>
-<th align="center">Project</th>
+<th align="center">Projects</th>
 <th align="center">What it does</th>
 </tr>
 
