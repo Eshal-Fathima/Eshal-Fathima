@@ -83,16 +83,6 @@ CS Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 <tr>
 <td align="center">
 
-<b><a href="https://github.com/Eshal-Fathima/Bitcoin-Sentiment-Trader-Analysis">Bitcoin Sentiment Trader Analysis</a></b>
-
-</td>
-<td>How Fear & Greed Index impacts trader profitability — feature engineering + statistical testing</td>
-</tr>
-
-
-<tr>
-<td align="center">
-
 <b><a href="https://github.com/Eshal-Fathima/TravelLens">TravelLens</a></b>
 
 </td>
