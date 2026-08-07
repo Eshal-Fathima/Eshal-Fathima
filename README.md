@@ -77,7 +77,7 @@ CS Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 <b><a href="https://github.com/Eshal-Fathima/Bug_Triage_Environment">AI Bug Triage Environment</a></b>
 
 </td>
-<td>Benchmark env for triaging GitHub-style bug reports across 15 tasks /td>
+<td>Benchmark env for triaging GitHub-style bug reports across 15 tasks </td>
 </tr>
 
 <tr>
