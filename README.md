@@ -14,7 +14,7 @@ CS Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=999999&color=DDB892&center=true&vCenter=true&repeat=false&width=900&height=30&lines=currently+exploring+%E2%80%94+agentic+AI+systems+%2B+multi-model+evaluation+frameworks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=999999&color=DDB892&center=true&vCenter=true&repeat=false&width=900&height=30&lines=currently+exploring+%E2%80%94+agentic+AI+systems+%2B+llm+evaluation+frameworks"/>
 </p>
 
 <br>
