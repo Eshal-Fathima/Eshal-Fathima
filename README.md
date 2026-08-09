@@ -32,7 +32,7 @@ CS Undergrad · AI & Machine Learning Enthusiast · Big Data Analytics <br>
 <table>
 <tr>
 <th align="center">Skill</th>
-<th align="center">What I've done with it</th>
+<th align="center">What I've done in it</th>
 </tr>
 
 <tr>
