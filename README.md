@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-CS Undergrad · AI & Data Analytics <br>
+CSe Undergrad · AI & Data Analytics Enthusiast <br>
 </p>
 
 <p align="center">
