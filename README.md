@@ -80,17 +80,6 @@ CSE Undergrad · AI & Data Analytics Enthusiast<br>
 <td>Benchmark env for triaging GitHub-style bug reports across 15 tasks </td>
 </tr>
 
-<tr>
-<td align="center">
-
-<b><a href="https://github.com/Eshal-Fathima/TravelLens">TravelLens</a></b>
-
-</td>
-<td>AI-powered travel logging and analytics platform</td>
-</tr>
-
-</table>
-
 </div>
 
 <p align="center">
